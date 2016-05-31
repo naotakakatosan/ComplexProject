@@ -9,4 +9,4 @@ public class GitSample1 {
 	}
 
 }
-//研究室で作成、送信
+//研究室で作成、送信?
