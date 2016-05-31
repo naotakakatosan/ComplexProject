@@ -8,3 +8,4 @@ public class MainClass {
 	}
 
 }
+//前川が加筆
